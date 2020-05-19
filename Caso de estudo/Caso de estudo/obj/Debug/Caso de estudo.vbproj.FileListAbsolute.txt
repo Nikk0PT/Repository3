@@ -1,0 +1,4 @@
+C:\Users\Utilizador\source\repos\Caso de estudo\Caso de estudo\obj\Debug\Caso de estudo.vbprojAssemblyReference.cache
+C:\Users\Utilizador\source\repos\Caso de estudo\Caso de estudo\obj\Debug\Caso_de_estudo.Form1.resources
+C:\Users\Utilizador\source\repos\Caso de estudo\Caso de estudo\obj\Debug\Caso_de_estudo.Resources.resources
+C:\Users\Utilizador\source\repos\Caso de estudo\Caso de estudo\obj\Debug\Caso de estudo.vbproj.GenerateResource.cache
